@@ -89,3 +89,15 @@
 3. 使用 Visual Studio 打开 `.sln` 解决方案文件。
 4. 点击 "生成 (Build)" -> "生成解决方案 (Build Solution)"。
 5. 生成成功后，直接按 `F5` 或点击 "启动" 按钮运行。
+
+## 项目结构
+
+```
+.
+├── SimpleCPUSi/      # 源代码文件
+├── screenshots/       # 项目截图和gif
+├── doc/               # 项目文档
+├── .gitignore            # Git忽略配置文件
+├── LICENSE             # 开源协议
+└── README.md             # 项目说明文件
+```
